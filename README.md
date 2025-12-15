@@ -80,8 +80,6 @@ head(df_classified)
 6 Fatty Acids and Conjugates                                  Fatty acids
 ```
 
-
-
 ## References
 
 - [GNPS API Documentation](https://ccms-ucsd.github.io/GNPSDocumentation/api/)
